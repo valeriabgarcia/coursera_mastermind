@@ -1,0 +1,21 @@
+[2022-10-31 10:26:27] [L] galaxy property is null or empty 
+[2022-10-31 10:26:27] [L] Non-GB Project : Kotlin_for_Java_Developers._Week_2 
+[2022-10-31 10:26:27] [L] allprojects : project : Mastermind-Task 
+[2022-10-31 10:26:27] [L] Non-GB Project : Mastermind-Task 
+[2022-10-31 10:26:27] [L] allprojects : project : util 
+[2022-10-31 10:26:27] [L] Phantom project at C:\Users\vb.garcia\coursera-projects\Kotlin for Java Developers. Week 2\util 
+[2022-10-31 10:26:27] [L] Non-GB Project : util 
+[2022-10-31 10:26:27] [D] gradle projects loaded 
+[2022-10-31 10:26:27] [I] set common default repository : samsung maven 
+[2022-10-31 10:26:27] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I] set common default strategy 
+[2022-10-31 10:26:27] [I] set common default repository : samsung maven 
+[2022-10-31 10:26:27] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I] set common default strategy 
+[2022-10-31 10:26:27] [I] set common default repository : samsung maven 
+[2022-10-31 10:26:27] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2022-10-31 10:26:27] [I] set common default strategy 
+[2022-10-31 10:26:27] [D] gradle projects evaluated 
